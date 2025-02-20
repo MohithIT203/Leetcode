@@ -8,9 +8,7 @@ class Solution(object):
                 negative.append(num)
             else:
                 positive.append(num)
-        for i in range(len(nums)):
-            if i%2!=0:
-                fin.append(negative.pop(0))
-            else:
-                fin.append(positive.pop(0))
+        for i in range(len(positive)):
+            fin.append(positive[i])
+            fin.append(negative[i])
         return fin
