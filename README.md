@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1797-goal-parser-interpretation](https://github.com/MohithIT203/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [2401-count-asterisks](https://github.com/MohithIT203/Leetcode/tree/master/2401-count-asterisks) |
 ## Two Pointers
 |  |
 | ------- |
