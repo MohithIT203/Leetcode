@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1797-goal-parser-interpretation](https://github.com/MohithIT203/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1954-replace-all-digits-with-characters](https://github.com/MohithIT203/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2401-count-asterisks](https://github.com/MohithIT203/Leetcode/tree/master/2401-count-asterisks) |
 ## Two Pointers
 |  |
