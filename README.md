@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/MohithIT203/Leetcode/tree/master/0001-two-sum) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2881-split-strings-by-separator](https://github.com/MohithIT203/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [1797-goal-parser-interpretation](https://github.com/MohithIT203/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1954-replace-all-digits-with-characters](https://github.com/MohithIT203/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2401-count-asterisks](https://github.com/MohithIT203/Leetcode/tree/master/2401-count-asterisks) |
+| [2881-split-strings-by-separator](https://github.com/MohithIT203/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
 |  |
 | ------- |
