@@ -14,12 +14,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohithIT203/Leetcode/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 | [1797-goal-parser-interpretation](https://github.com/MohithIT203/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1954-replace-all-digits-with-characters](https://github.com/MohithIT203/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
@@ -86,5 +88,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
