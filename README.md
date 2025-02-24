@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/MohithIT203/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/MohithIT203/Leetcode/tree/master/0162-find-peak-element) |
+| [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1970-sorting-the-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Backtracking
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
