@@ -1,6 +1,5 @@
 class Solution(object):
     def numOfSubarrays(self, arr):
-        MOD = 1000000007
         odd_count = 0
         even_count = 1
         result = 0
@@ -15,6 +14,4 @@ class Solution(object):
                 result += even_count 
                 odd_count += 1
             
-            result %= MOD
-            
-        return result
+        return result%1000000007
