@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/MohithIT203/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/MohithIT203/Leetcode/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
