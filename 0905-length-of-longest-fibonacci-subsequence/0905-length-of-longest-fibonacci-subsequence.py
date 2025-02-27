@@ -1,7 +1,7 @@
 class Solution(object):
     def lenLongestFibSubseq(self, arr):
         index_map = {num: i for i, num in enumerate(arr)}
-        dp = defaultdict(lambda: 2)  # Default length is at least 2
+        dp = defaultdict(lambda: 2)
         max_length = 0
     
         for j in range(len(arr)):
