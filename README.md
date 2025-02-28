@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MohithIT203/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MohithIT203/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
