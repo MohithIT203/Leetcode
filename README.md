@@ -97,6 +97,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MohithIT203/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
