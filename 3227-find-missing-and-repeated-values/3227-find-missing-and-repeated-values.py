@@ -1,8 +1,6 @@
 class Solution(object):
     def findMissingAndRepeatedValues(self, grid):
-        length=len(grid)*len(grid)
-        stack=[x for x in range(1,len(grid)*len(grid)+1)]
-        stack=set(stack)
+        length=len(grid)*len(grid)+1
         arr=[]
         repeatstack=[]
         fin=[]
@@ -13,9 +11,9 @@ class Solution(object):
                 fin.append(arr[i])
             repeatstack.append(arr[i])
         arr=set(arr)
-        for nums in stack:
-            if nums not in arr:
-                fin.append(nums)
+        for i in range(1,length):
+            if i not in arr:
+                fin.append(i)
                 break
         return fin
 
