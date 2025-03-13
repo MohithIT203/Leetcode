@@ -207,4 +207,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/MohithIT203/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
