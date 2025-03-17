@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MohithIT203/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohithIT203/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MohithIT203/Leetcode/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
