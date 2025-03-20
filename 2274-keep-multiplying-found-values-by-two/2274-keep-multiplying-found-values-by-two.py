@@ -1,9 +1,9 @@
 class Solution(object):
     def findFinalValue(self, nums, original):
-        nums.sort()
-        for i in range(len(nums)):
-            if original==nums[i]:
-                nums[i]*=2
-                original=nums[i]
+        while True:
+            if original in nums:
+                original*=2
+            else:
+                break
         return original
         
