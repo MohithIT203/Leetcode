@@ -29,6 +29,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -54,6 +55,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -77,6 +79,7 @@
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/MohithIT203/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2401-count-asterisks](https://github.com/MohithIT203/Leetcode/tree/master/2401-count-asterisks) |
+| [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2881-split-strings-by-separator](https://github.com/MohithIT203/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
 |  |
@@ -113,6 +116,7 @@
 | [1970-sorting-the-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
