@@ -44,6 +44,7 @@
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MohithIT203/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MohithIT203/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohithIT203/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohithIT203/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohithIT203/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
 |  |
