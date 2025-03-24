@@ -4,7 +4,7 @@ class Solution(object):
         nums.sort()
         end=len(nums)-1
         fin=[]
-        while(start<=end):
+        while(start<end):
             avg=(nums[start]+nums[end])/2.0
             fin.append(avg)
             start+=1
