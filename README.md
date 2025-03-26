@@ -107,6 +107,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/MohithIT203/Leetcode/tree/master/0326-power-of-three) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MohithIT203/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -257,6 +259,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MohithIT203/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/MohithIT203/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
