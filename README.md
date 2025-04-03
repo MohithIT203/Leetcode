@@ -35,6 +35,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -68,6 +69,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -106,6 +108,7 @@
 | [1894-merge-strings-alternately](https://github.com/MohithIT203/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -300,6 +303,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
+| [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Counting Sort
 |  |
 | ------- |
