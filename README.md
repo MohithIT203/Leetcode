@@ -40,6 +40,7 @@
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -73,6 +74,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -145,6 +147,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
