@@ -119,6 +119,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2481-strictly-palindromic-number](https://github.com/MohithIT203/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -191,6 +192,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MohithIT203/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MohithIT203/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2481-strictly-palindromic-number](https://github.com/MohithIT203/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/MohithIT203/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MohithIT203/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/MohithIT203/Leetcode/tree/master/2752-sum-multiples) |
@@ -327,4 +329,8 @@
 | ------- |
 | [1137-height-checker](https://github.com/MohithIT203/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/MohithIT203/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
