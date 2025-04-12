@@ -24,6 +24,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MohithIT203/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1020-longest-turbulent-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1137-height-checker](https://github.com/MohithIT203/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
@@ -155,6 +156,7 @@
 | [0455-assign-cookies](https://github.com/MohithIT203/Leetcode/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MohithIT203/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/MohithIT203/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -272,6 +274,7 @@
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MohithIT203/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MohithIT203/Leetcode/tree/master/0455-assign-cookies) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohithIT203/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/MohithIT203/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Graph
@@ -318,6 +321,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MohithIT203/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
