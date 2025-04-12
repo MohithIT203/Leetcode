@@ -197,6 +197,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MohithIT203/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
