@@ -63,6 +63,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MohithIT203/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MohithIT203/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohithIT203/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohithIT203/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohithIT203/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -215,6 +216,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/MohithIT203/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohithIT203/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
