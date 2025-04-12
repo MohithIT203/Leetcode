@@ -203,6 +203,7 @@
 | [2481-strictly-palindromic-number](https://github.com/MohithIT203/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/MohithIT203/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MohithIT203/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/MohithIT203/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/MohithIT203/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MohithIT203/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -272,6 +273,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MohithIT203/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MohithIT203/Leetcode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohithIT203/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/MohithIT203/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Graph
 |  |
 | ------- |
