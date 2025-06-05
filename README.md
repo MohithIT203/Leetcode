@@ -156,6 +156,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MohithIT203/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
@@ -229,6 +230,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MohithIT203/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MohithIT203/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/MohithIT203/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/MohithIT203/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/MohithIT203/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MohithIT203/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
