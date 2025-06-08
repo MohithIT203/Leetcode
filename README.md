@@ -343,6 +343,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/MohithIT203/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Trie
 |  |
 | ------- |
@@ -395,5 +396,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/MohithIT203/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
