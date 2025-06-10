@@ -208,6 +208,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/MohithIT203/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MohithIT203/Leetcode/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MohithIT203/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/MohithIT203/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/MohithIT203/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
