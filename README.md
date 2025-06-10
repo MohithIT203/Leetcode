@@ -97,6 +97,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohithIT203/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohithIT203/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2881-split-strings-by-separator](https://github.com/MohithIT203/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohithIT203/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/MohithIT203/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -369,6 +371,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohithIT203/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Database
 |  |
