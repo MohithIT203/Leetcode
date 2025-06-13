@@ -71,6 +71,7 @@
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MohithIT203/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MohithIT203/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/MohithIT203/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohithIT203/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohithIT203/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohithIT203/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -97,6 +98,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/MohithIT203/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohithIT203/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohithIT203/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
