@@ -47,6 +47,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MohithIT203/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohithIT203/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/MohithIT203/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MohithIT203/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
