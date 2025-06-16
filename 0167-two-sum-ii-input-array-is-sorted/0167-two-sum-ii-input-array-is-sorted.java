@@ -6,9 +6,9 @@ class Solution {
         {
             if(numbers[left]+numbers[right]==target)
             {
-                arr[0]=left+1;
-                arr[1]=right+1;
-                break;
+                // arr[0]=left+1;
+                // arr[1]=right+1;
+                return new int[]{left+1,right+1};    
             }
             else if(numbers[left]+numbers[right]>target){
                 right--;
@@ -18,6 +18,6 @@ class Solution {
             }
             
         }
-        return arr;
+        return new int[]{};
     }
 }
