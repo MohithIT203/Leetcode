@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohithIT203/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohithIT203/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MohithIT203/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/MohithIT203/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MohithIT203/Leetcode/tree/master/0189-rotate-array) |
@@ -359,6 +361,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
