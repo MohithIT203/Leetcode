@@ -33,6 +33,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MohithIT203/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/MohithIT203/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -179,6 +180,7 @@
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohithIT203/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohithIT203/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -371,6 +373,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
