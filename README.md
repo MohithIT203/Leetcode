@@ -48,6 +48,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/MohithIT203/Leetcode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1791-richest-customer-wealth](https://github.com/MohithIT203/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -378,6 +379,7 @@
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
+| [1791-richest-customer-wealth](https://github.com/MohithIT203/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
