@@ -100,6 +100,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MohithIT203/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/MohithIT203/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -128,6 +129,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MohithIT203/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/MohithIT203/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/MohithIT203/Leetcode/tree/master/1170-shortest-common-supersequence) |
