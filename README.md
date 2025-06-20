@@ -117,6 +117,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MohithIT203/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohithIT203/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohithIT203/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohithIT203/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohithIT203/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/MohithIT203/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohithIT203/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -431,6 +433,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MohithIT203/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohithIT203/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
