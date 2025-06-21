@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/MohithIT203/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/MohithIT203/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MohithIT203/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/MohithIT203/Leetcode/tree/master/0792-binary-search) |
@@ -368,6 +369,7 @@
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MohithIT203/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MohithIT203/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/MohithIT203/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/MohithIT203/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
