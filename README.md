@@ -279,6 +279,7 @@
 | [0189-rotate-array](https://github.com/MohithIT203/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MohithIT203/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/MohithIT203/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/MohithIT203/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/MohithIT203/Leetcode/tree/master/0412-fizz-buzz) |
@@ -431,6 +432,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MohithIT203/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MohithIT203/Leetcode/tree/master/0326-power-of-three) |
 ## Counting
 |  |
@@ -472,6 +474,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MohithIT203/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/MohithIT203/Leetcode/tree/master/0231-power-of-two) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 ## String Matching
