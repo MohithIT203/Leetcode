@@ -481,6 +481,7 @@
 | [0191-number-of-1-bits](https://github.com/MohithIT203/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MohithIT203/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MohithIT203/Leetcode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/MohithIT203/Leetcode/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MohithIT203/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
