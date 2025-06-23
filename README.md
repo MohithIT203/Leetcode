@@ -288,6 +288,7 @@
 | [0504-base-7](https://github.com/MohithIT203/Leetcode/tree/master/0504-base-7) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1289-day-of-the-week](https://github.com/MohithIT203/Leetcode/tree/master/1289-day-of-the-week) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/MohithIT203/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MohithIT203/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohithIT203/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -381,6 +382,7 @@
 | [0605-can-place-flowers](https://github.com/MohithIT203/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/MohithIT203/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/MohithIT203/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MohithIT203/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
