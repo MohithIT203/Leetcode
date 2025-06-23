@@ -481,6 +481,7 @@
 | [0342-power-of-four](https://github.com/MohithIT203/Leetcode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/MohithIT203/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
 |  |
 | ------- |
