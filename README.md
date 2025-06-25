@@ -289,6 +289,7 @@
 | [0342-power-of-four](https://github.com/MohithIT203/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MohithIT203/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/MohithIT203/Leetcode/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/MohithIT203/Leetcode/tree/master/0507-perfect-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1289-day-of-the-week](https://github.com/MohithIT203/Leetcode/tree/master/1289-day-of-the-week) |
