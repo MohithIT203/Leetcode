@@ -24,6 +24,7 @@
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MohithIT203/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohithIT203/Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/MohithIT203/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MohithIT203/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohithIT203/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MohithIT203/Leetcode/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@
 | [0001-two-sum](https://github.com/MohithIT203/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/MohithIT203/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/MohithIT203/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MohithIT203/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/MohithIT203/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
