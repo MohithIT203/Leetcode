@@ -11,12 +11,12 @@ class Solution {
 			arr.add(new ArrayList<>(temp));
 			return;
 		}
-        if(target<0) return;
 		for(int i=ind; i<n.length; i++) {
+                if(n[i]<=target){
                 temp.add(n[i]);
                 combination(n,target-n[i],i,temp,arr);
 			    temp.remove(temp.size()-1);
-        	
+                }
 		}
 	}
 }
