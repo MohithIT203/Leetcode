@@ -11,16 +11,12 @@ class Solution {
 			arr.add(new ArrayList<>(temp));
 			return;
 		}
+        if(target<0) return;
 		for(int i=ind; i<n.length; i++) {
-			temp.add(n[i]);
-            if(target>0){
+                temp.add(n[i]);
                 combination(n,target-n[i],i,temp,arr);
 			    temp.remove(temp.size()-1);
-            }
-            else{
-                temp.remove(temp.size()-1);
-            }
-			
+        	
 		}
 	}
 }
