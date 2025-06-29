@@ -70,6 +70,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MohithIT203/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohithIT203/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MohithIT203/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -166,6 +167,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/MohithIT203/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohithIT203/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/MohithIT203/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohithIT203/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2401-count-asterisks](https://github.com/MohithIT203/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
