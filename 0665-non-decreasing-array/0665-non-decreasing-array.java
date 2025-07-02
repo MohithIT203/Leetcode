@@ -14,7 +14,7 @@ class Solution {
                 } else {
                     nums[i + 1] = nums[i];
                 }
-            System.out.println(Arrays.toString(nums));
+            
             }
         }
 
