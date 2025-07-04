@@ -12,7 +12,7 @@ class LRUCache {
     }
 
     Node head = null, tail = null;//global
-    LinkedHashMap<Integer, Node> map = new LinkedHashMap<>();
+    HashMap<Integer, Node> map = new HashMap<>();
     int capacity = 0; //global capacity
 
     public LRUCache(int capacity) {
