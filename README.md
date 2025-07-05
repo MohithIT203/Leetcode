@@ -212,6 +212,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MohithIT203/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/MohithIT203/Leetcode/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -589,6 +590,7 @@
 | [0234-palindrome-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/MohithIT203/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
