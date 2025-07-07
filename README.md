@@ -168,6 +168,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MohithIT203/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/MohithIT203/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/MohithIT203/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -433,6 +434,7 @@
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MohithIT203/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/MohithIT203/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
