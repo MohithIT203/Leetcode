@@ -150,6 +150,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/MohithIT203/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/MohithIT203/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
@@ -424,6 +425,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
