@@ -54,6 +54,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1020-longest-turbulent-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1072-next-greater-node-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/MohithIT203/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/MohithIT203/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/MohithIT203/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -453,6 +454,7 @@
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MohithIT203/Leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1072-next-greater-node-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MohithIT203/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/MohithIT203/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -637,6 +639,7 @@
 | [0838-design-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/MohithIT203/Leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/MohithIT203/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -666,4 +669,5 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MohithIT203/Leetcode/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
