@@ -406,6 +406,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/MohithIT203/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -441,6 +442,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/MohithIT203/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Sliding Window
 |  |
 | ------- |
