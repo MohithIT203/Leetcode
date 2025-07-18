@@ -414,6 +414,7 @@
 | [0110-balanced-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -437,6 +438,7 @@
 | [0110-balanced-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -450,6 +452,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/MohithIT203/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -476,6 +479,7 @@
 | [0110-balanced-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0450-delete-node-in-a-bst) |
