@@ -72,6 +72,7 @@
 | [1656-count-good-triplets](https://github.com/MohithIT203/Leetcode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/MohithIT203/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -145,6 +146,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -513,6 +515,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Stack
 |  |
 | ------- |
