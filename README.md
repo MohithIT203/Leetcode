@@ -118,6 +118,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MohithIT203/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/MohithIT203/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MohithIT203/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MohithIT203/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohithIT203/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -327,6 +328,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/MohithIT203/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MohithIT203/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
@@ -582,6 +584,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohithIT203/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/MohithIT203/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3334-apple-redistribution-into-boxes](https://github.com/MohithIT203/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Graph
 |  |
 | ------- |
