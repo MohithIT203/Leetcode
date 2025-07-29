@@ -180,6 +180,7 @@
 | [0020-valid-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/MohithIT203/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/MohithIT203/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MohithIT203/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MohithIT203/Leetcode/tree/master/0415-add-strings) |
@@ -365,6 +367,7 @@
 | [0009-palindrome-number](https://github.com/MohithIT203/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MohithIT203/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/MohithIT203/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MohithIT203/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohithIT203/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -716,6 +719,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MohithIT203/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MohithIT203/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MohithIT203/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MohithIT203/Leetcode/tree/master/0191-number-of-1-bits) |
