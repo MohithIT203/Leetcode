@@ -394,6 +394,7 @@
 | [0445-add-two-numbers-ii](https://github.com/MohithIT203/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/MohithIT203/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/MohithIT203/Leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/MohithIT203/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1031-add-to-array-form-of-integer](https://github.com/MohithIT203/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
