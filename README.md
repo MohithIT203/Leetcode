@@ -417,6 +417,7 @@
 | [2481-strictly-palindromic-number](https://github.com/MohithIT203/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/MohithIT203/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/MohithIT203/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2630-alternating-digit-sum](https://github.com/MohithIT203/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MohithIT203/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/MohithIT203/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/MohithIT203/Leetcode/tree/master/2752-sum-multiples) |
