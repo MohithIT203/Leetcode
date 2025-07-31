@@ -106,6 +106,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2639-separate-the-digits-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/MohithIT203/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MohithIT203/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -298,6 +299,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/MohithIT203/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MohithIT203/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/MohithIT203/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
