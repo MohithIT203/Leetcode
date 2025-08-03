@@ -194,6 +194,7 @@
 | [0344-reverse-string](https://github.com/MohithIT203/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/MohithIT203/Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/MohithIT203/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MohithIT203/Leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -584,6 +585,7 @@
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/MohithIT203/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/MohithIT203/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/MohithIT203/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/MohithIT203/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MohithIT203/Leetcode/tree/master/0739-daily-temperatures) |
@@ -696,6 +698,7 @@
 | [0234-palindrome-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/MohithIT203/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohithIT203/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/MohithIT203/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
