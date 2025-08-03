@@ -71,6 +71,7 @@
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/MohithIT203/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohithIT203/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -405,6 +406,7 @@
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1289-day-of-the-week](https://github.com/MohithIT203/Leetcode/tree/master/1289-day-of-the-week) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MohithIT203/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/MohithIT203/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MohithIT203/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohithIT203/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohithIT203/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -852,4 +854,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MohithIT203/Leetcode/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/MohithIT203/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
