@@ -211,6 +211,7 @@
 | [1170-shortest-common-supersequence](https://github.com/MohithIT203/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/MohithIT203/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohithIT203/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/MohithIT203/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/MohithIT203/Leetcode/tree/master/1542-consecutive-characters) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -413,6 +414,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohithIT203/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohithIT203/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/MohithIT203/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MohithIT203/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -572,6 +574,7 @@
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MohithIT203/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1020-longest-turbulent-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/MohithIT203/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
