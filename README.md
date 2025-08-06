@@ -86,6 +86,7 @@
 | [1791-richest-customer-wealth](https://github.com/MohithIT203/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -223,6 +224,7 @@
 | [1797-goal-parser-interpretation](https://github.com/MohithIT203/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/MohithIT203/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/MohithIT203/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1954-replace-all-digits-with-characters](https://github.com/MohithIT203/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MohithIT203/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -670,6 +672,7 @@
 | [0724-find-pivot-index](https://github.com/MohithIT203/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/MohithIT203/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/MohithIT203/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
