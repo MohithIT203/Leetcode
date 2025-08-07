@@ -150,6 +150,7 @@
 | [0146-lru-cache](https://github.com/MohithIT203/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohithIT203/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/MohithIT203/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/MohithIT203/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MohithIT203/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MohithIT203/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +196,7 @@
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/MohithIT203/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/MohithIT203/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohithIT203/Leetcode/tree/master/0344-reverse-string) |
