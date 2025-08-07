@@ -72,6 +72,7 @@
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/MohithIT203/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/MohithIT203/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohithIT203/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -162,6 +163,7 @@
 | [1039-find-the-town-judge](https://github.com/MohithIT203/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/MohithIT203/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
