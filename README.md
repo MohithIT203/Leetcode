@@ -179,6 +179,7 @@
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/MohithIT203/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MohithIT203/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MohithIT203/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -446,6 +447,7 @@
 | [2715-k-items-with-the-maximum-sum](https://github.com/MohithIT203/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/MohithIT203/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MohithIT203/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/MohithIT203/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2857-total-distance-traveled](https://github.com/MohithIT203/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
