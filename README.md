@@ -382,6 +382,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/MohithIT203/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MohithIT203/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MohithIT203/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/MohithIT203/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/MohithIT203/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -410,6 +411,7 @@
 | [0319-bulb-switcher](https://github.com/MohithIT203/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MohithIT203/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohithIT203/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/MohithIT203/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/MohithIT203/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MohithIT203/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/MohithIT203/Leetcode/tree/master/0441-arranging-coins) |
