@@ -432,6 +432,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/MohithIT203/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/MohithIT203/Leetcode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MohithIT203/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohithIT203/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -638,6 +639,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MohithIT203/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1448-maximum-69-number](https://github.com/MohithIT203/Leetcode/tree/master/1448-maximum-69-number) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MohithIT203/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2329-maximum-product-after-k-increments](https://github.com/MohithIT203/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
