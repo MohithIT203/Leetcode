@@ -124,6 +124,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohithIT203/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/MohithIT203/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3221-find-the-peaks](https://github.com/MohithIT203/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
@@ -766,6 +767,7 @@
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/MohithIT203/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3221-find-the-peaks](https://github.com/MohithIT203/Leetcode/tree/master/3221-find-the-peaks) |
 ## Counting Sort
 |  |
 | ------- |
