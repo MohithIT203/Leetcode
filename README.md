@@ -200,6 +200,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/MohithIT203/Leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/MohithIT203/Leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MohithIT203/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -470,6 +471,7 @@
 | [0062-unique-paths](https://github.com/MohithIT203/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MohithIT203/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MohithIT203/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/MohithIT203/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/MohithIT203/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohithIT203/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0152-maximum-product-subarray) |
