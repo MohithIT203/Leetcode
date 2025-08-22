@@ -2,26 +2,23 @@ class Solution {
     public boolean validPalindrome(String s) {
         int start = 0, end = s.length() - 1;
         while (start < end) {
-            if (Character.toLowerCase(s.charAt(start)) != Character.toLowerCase(s.charAt(end))) {
-                if(palindrome(start+1,end,s)||palindrome(start,end-1,s)){
-                    return true;
-                }
-                return false;
+            if (s.charAt(start) != s.charAt(end)) {
+                return isPalindrome(s, start + 1, end) || isPalindrome(s, start, end - 1);
             }
             start++;
             end--;
         }
         return true;
+    }
 
-    }
-    public boolean palindrome(int start,int end,String s){
-        while (start < end) {
-            if (Character.toLowerCase(s.charAt(start)) != Character.toLowerCase(s.charAt(end))) {
-               return false;
+    private boolean isPalindrome(String s, int left, int right) {
+        while (left < right) {
+            if (s.charAt(left) != s.charAt(right)) {
+                return false;
             }
-            start++;
-            end--;
-    }
-    return true;
+            left++;
+            right--;
+        }
+        return true;
     }
 }
