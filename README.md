@@ -54,6 +54,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MohithIT203/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/MohithIT203/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/MohithIT203/Leetcode/tree/master/0817-design-hashmap) |
+| [0841-shortest-distance-to-a-character](https://github.com/MohithIT203/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-design-circular-queue](https://github.com/MohithIT203/Leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
@@ -217,6 +218,7 @@
 | [0680-valid-palindrome-ii](https://github.com/MohithIT203/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/MohithIT203/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/MohithIT203/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0841-shortest-distance-to-a-character](https://github.com/MohithIT203/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -285,6 +287,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MohithIT203/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/MohithIT203/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/MohithIT203/Leetcode/tree/master/0917-boats-to-save-people) |
