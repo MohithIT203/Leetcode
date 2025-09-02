@@ -127,6 +127,7 @@
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/MohithIT203/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/MohithIT203/Leetcode/tree/master/3221-find-the-peaks) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohithIT203/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
@@ -184,6 +185,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/MohithIT203/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohithIT203/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MohithIT203/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MohithIT203/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -614,6 +616,7 @@
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MohithIT203/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohithIT203/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/MohithIT203/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
 |  |
