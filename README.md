@@ -119,6 +119,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/MohithIT203/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/MohithIT203/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MohithIT203/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -257,6 +258,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/MohithIT203/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2881-split-strings-by-separator](https://github.com/MohithIT203/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/MohithIT203/Leetcode/tree/master/3396-valid-word) |
@@ -722,6 +724,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/MohithIT203/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/MohithIT203/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
