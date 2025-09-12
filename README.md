@@ -258,6 +258,7 @@
 | [2401-count-asterisks](https://github.com/MohithIT203/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohithIT203/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohithIT203/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2881-split-strings-by-separator](https://github.com/MohithIT203/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -628,6 +629,7 @@
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MohithIT203/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohithIT203/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohithIT203/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/MohithIT203/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
