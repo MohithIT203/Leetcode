@@ -267,6 +267,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohithIT203/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/MohithIT203/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohithIT203/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2391-strong-password-checker-ii](https://github.com/MohithIT203/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/MohithIT203/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
