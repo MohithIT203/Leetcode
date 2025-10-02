@@ -228,6 +228,7 @@
 | [0415-add-strings](https://github.com/MohithIT203/Leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MohithIT203/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/MohithIT203/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MohithIT203/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/MohithIT203/Leetcode/tree/master/0742-to-lower-case) |
