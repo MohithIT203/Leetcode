@@ -251,6 +251,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MohithIT203/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohithIT203/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/MohithIT203/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MohithIT203/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/MohithIT203/Leetcode/tree/master/1542-consecutive-characters) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
