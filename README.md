@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/MohithIT203/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MohithIT203/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/MohithIT203/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohithIT203/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -418,6 +419,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/MohithIT203/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/MohithIT203/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/MohithIT203/Leetcode/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
@@ -855,6 +857,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MohithIT203/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/MohithIT203/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MohithIT203/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MohithIT203/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MohithIT203/Leetcode/tree/master/0191-number-of-1-bits) |
