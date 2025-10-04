@@ -168,6 +168,7 @@
 | [0217-contains-duplicate](https://github.com/MohithIT203/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MohithIT203/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/MohithIT203/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/MohithIT203/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -226,6 +227,7 @@
 | [0205-isomorphic-strings](https://github.com/MohithIT203/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/MohithIT203/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/MohithIT203/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0392-is-subsequence) |
@@ -799,6 +801,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/MohithIT203/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MohithIT203/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MohithIT203/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
