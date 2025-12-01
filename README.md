@@ -98,6 +98,7 @@
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/MohithIT203/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -370,6 +371,7 @@
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohithIT203/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohithIT203/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/MohithIT203/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohithIT203/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohithIT203/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
