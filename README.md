@@ -43,6 +43,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MohithIT203/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohithIT203/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/MohithIT203/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MohithIT203/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -484,6 +485,7 @@
 | [0415-add-strings](https://github.com/MohithIT203/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/MohithIT203/Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/MohithIT203/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohithIT203/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/MohithIT203/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/MohithIT203/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/MohithIT203/Leetcode/tree/master/0728-self-dividing-numbers) |
