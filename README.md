@@ -237,6 +237,7 @@
 | [0205-isomorphic-strings](https://github.com/MohithIT203/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/MohithIT203/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/MohithIT203/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/MohithIT203/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/MohithIT203/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -438,6 +439,7 @@
 | [0039-combination-sum](https://github.com/MohithIT203/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/MohithIT203/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MohithIT203/Leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/MohithIT203/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
@@ -580,6 +582,7 @@
 | [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohithIT203/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/MohithIT203/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -611,6 +614,7 @@
 | [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohithIT203/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/MohithIT203/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -670,6 +674,7 @@
 | [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MohithIT203/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/MohithIT203/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/MohithIT203/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
