@@ -495,6 +495,7 @@
 | [0728-self-dividing-numbers](https://github.com/MohithIT203/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1031-add-to-array-form-of-integer](https://github.com/MohithIT203/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/MohithIT203/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/MohithIT203/Leetcode/tree/master/1289-day-of-the-week) |
@@ -602,6 +603,7 @@
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/MohithIT203/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -706,6 +708,7 @@
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/MohithIT203/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Sliding Window
