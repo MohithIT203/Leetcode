@@ -591,6 +591,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/MohithIT203/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MohithIT203/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -625,6 +626,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/MohithIT203/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MohithIT203/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MohithIT203/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MohithIT203/Leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -646,6 +648,7 @@
 | [0112-path-sum](https://github.com/MohithIT203/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/MohithIT203/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MohithIT203/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MohithIT203/Leetcode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -692,6 +695,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/MohithIT203/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MohithIT203/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
