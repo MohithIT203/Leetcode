@@ -636,6 +636,7 @@
 | [0572-subtree-of-another-tree](https://github.com/MohithIT203/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/MohithIT203/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MohithIT203/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MohithIT203/Leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -660,6 +661,7 @@
 | [0404-sum-of-left-leaves](https://github.com/MohithIT203/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/MohithIT203/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MohithIT203/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MohithIT203/Leetcode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -793,6 +795,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/MohithIT203/Leetcode/tree/master/0684-redundant-connection) |
 | [1039-find-the-town-judge](https://github.com/MohithIT203/Leetcode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MohithIT203/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1047,6 +1050,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/MohithIT203/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MohithIT203/Leetcode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MohithIT203/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
