@@ -195,6 +195,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MohithIT203/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/MohithIT203/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MohithIT203/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -614,6 +615,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/MohithIT203/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -652,6 +654,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MohithIT203/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
@@ -673,6 +676,7 @@
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MohithIT203/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
