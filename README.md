@@ -604,6 +604,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -639,6 +640,7 @@
 | [0733-flood-fill](https://github.com/MohithIT203/Leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -709,6 +711,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
