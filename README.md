@@ -260,6 +260,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/MohithIT203/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/MohithIT203/Leetcode/tree/master/0965-unique-email-addresses) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MohithIT203/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MohithIT203/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -442,6 +443,7 @@
 | [0077-combinations](https://github.com/MohithIT203/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MohithIT203/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/MohithIT203/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MohithIT203/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
@@ -606,6 +608,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MohithIT203/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
@@ -643,6 +646,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MohithIT203/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -715,6 +719,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/MohithIT203/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
