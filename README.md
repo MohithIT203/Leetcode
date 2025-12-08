@@ -128,6 +128,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2596-check-knight-tour-configuration](https://github.com/MohithIT203/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -390,6 +391,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/MohithIT203/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/MohithIT203/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2639-separate-the-digits-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2857-total-distance-traveled](https://github.com/MohithIT203/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -657,6 +659,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MohithIT203/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/MohithIT203/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -679,6 +682,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MohithIT203/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MohithIT203/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/MohithIT203/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Design
 |  |
 | ------- |
@@ -838,6 +842,7 @@
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohithIT203/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/MohithIT203/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/MohithIT203/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/MohithIT203/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3044-most-frequent-prime](https://github.com/MohithIT203/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
