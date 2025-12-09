@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohithIT203/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/MohithIT203/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohithIT203/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/MohithIT203/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MohithIT203/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohithIT203/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/MohithIT203/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MohithIT203/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MohithIT203/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -444,6 +446,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MohithIT203/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohithIT203/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/MohithIT203/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MohithIT203/Leetcode/tree/master/0078-subsets) |
@@ -834,6 +837,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MohithIT203/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/MohithIT203/Leetcode/tree/master/0064-minimum-path-sum) |
