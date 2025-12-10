@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/MohithIT203/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/MohithIT203/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/MohithIT203/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MohithIT203/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
@@ -408,6 +409,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/MohithIT203/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MohithIT203/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MohithIT203/Leetcode/tree/master/0217-contains-duplicate) |
@@ -452,6 +454,7 @@
 | [0037-sudoku-solver](https://github.com/MohithIT203/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohithIT203/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MohithIT203/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MohithIT203/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/MohithIT203/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MohithIT203/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MohithIT203/Leetcode/tree/master/0079-word-search) |
