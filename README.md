@@ -502,6 +502,7 @@
 | [0227-basic-calculator-ii](https://github.com/MohithIT203/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/MohithIT203/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/MohithIT203/Leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/MohithIT203/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MohithIT203/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohithIT203/Leetcode/tree/master/0342-power-of-four) |
@@ -574,6 +575,7 @@
 | [0118-pascals-triangle](https://github.com/MohithIT203/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohithIT203/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/MohithIT203/Leetcode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -688,6 +690,7 @@
 | [0112-path-sum](https://github.com/MohithIT203/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/MohithIT203/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/MohithIT203/Leetcode/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/MohithIT203/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
