@@ -637,6 +637,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/MohithIT203/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
@@ -682,6 +683,7 @@
 | [0733-flood-fill](https://github.com/MohithIT203/Leetcode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/MohithIT203/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/MohithIT203/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -714,6 +716,7 @@
 | [0733-flood-fill](https://github.com/MohithIT203/Leetcode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/MohithIT203/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/MohithIT203/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -765,6 +768,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/MohithIT203/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
@@ -1083,6 +1087,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MohithIT203/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MohithIT203/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/MohithIT203/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohithIT203/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohithIT203/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
