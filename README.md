@@ -827,6 +827,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/MohithIT203/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Greedy
 |  |
@@ -948,6 +949,7 @@
 | [0394-decode-string](https://github.com/MohithIT203/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MohithIT203/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/MohithIT203/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -1070,6 +1072,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MohithIT203/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohithIT203/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1109,6 +1112,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/MohithIT203/Leetcode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Function
 |  |
 | ------- |
