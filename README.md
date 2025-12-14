@@ -112,6 +112,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2102-find-the-middle-index-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MohithIT203/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -213,6 +214,7 @@
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MohithIT203/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MohithIT203/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/MohithIT203/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -440,6 +442,7 @@
 | [1561-rearrange-words-in-a-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MohithIT203/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -949,6 +952,7 @@
 | [0394-decode-string](https://github.com/MohithIT203/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MohithIT203/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/MohithIT203/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
@@ -993,6 +997,7 @@
 | [0204-count-primes](https://github.com/MohithIT203/Leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/MohithIT203/Leetcode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/MohithIT203/Leetcode/tree/master/2507-number-of-common-factors) |
 | [3044-most-frequent-prime](https://github.com/MohithIT203/Leetcode/tree/master/3044-most-frequent-prime) |
