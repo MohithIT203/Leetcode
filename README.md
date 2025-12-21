@@ -75,6 +75,7 @@
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/MohithIT203/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0944-delete-columns-to-make-sorted](https://github.com/MohithIT203/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/MohithIT203/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/MohithIT203/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -282,6 +283,7 @@
 | [0812-rotate-string](https://github.com/MohithIT203/Leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/MohithIT203/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MohithIT203/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/MohithIT203/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/MohithIT203/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohithIT203/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
