@@ -172,6 +172,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohithIT203/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohithIT203/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MohithIT203/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3701-compute-alternating-sum](https://github.com/MohithIT203/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/MohithIT203/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MohithIT203/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -423,6 +424,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/MohithIT203/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3701-compute-alternating-sum](https://github.com/MohithIT203/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/MohithIT203/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
