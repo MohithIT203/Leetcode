@@ -115,6 +115,7 @@
 | [1929-concatenation-of-array](https://github.com/MohithIT203/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MohithIT203/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2102-find-the-middle-index-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -455,6 +456,7 @@
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MohithIT203/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -865,6 +867,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MohithIT203/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/MohithIT203/Leetcode/tree/master/1448-maximum-69-number) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MohithIT203/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MohithIT203/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MohithIT203/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2329-maximum-product-after-k-increments](https://github.com/MohithIT203/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
@@ -1033,6 +1036,7 @@
 | [0948-sort-an-array](https://github.com/MohithIT203/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/MohithIT203/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MohithIT203/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Brainteaser
 |  |
 | ------- |
