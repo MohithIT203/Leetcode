@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/MohithIT203/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MohithIT203/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/MohithIT203/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/MohithIT203/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MohithIT203/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MohithIT203/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/MohithIT203/Leetcode/tree/master/0048-rotate-image) |
@@ -596,6 +597,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MohithIT203/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MohithIT203/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MohithIT203/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MohithIT203/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -857,6 +859,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MohithIT203/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/MohithIT203/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/MohithIT203/Leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/MohithIT203/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MohithIT203/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
