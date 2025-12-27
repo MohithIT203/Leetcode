@@ -58,6 +58,7 @@
 | [0485-max-consecutive-ones](https://github.com/MohithIT203/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/MohithIT203/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MohithIT203/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MohithIT203/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/MohithIT203/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/MohithIT203/Leetcode/tree/master/0665-non-decreasing-array) |
@@ -204,6 +205,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MohithIT203/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/MohithIT203/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MohithIT203/Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/MohithIT203/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/MohithIT203/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -931,6 +933,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MohithIT203/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MohithIT203/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/MohithIT203/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MohithIT203/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohithIT203/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/MohithIT203/Leetcode/tree/master/1603-running-sum-of-1d-array) |
