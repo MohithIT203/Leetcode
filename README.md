@@ -97,6 +97,7 @@
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/MohithIT203/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/MohithIT203/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohithIT203/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MohithIT203/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -513,6 +514,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/MohithIT203/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MohithIT203/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohithIT203/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -922,6 +924,7 @@
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohithIT203/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/MohithIT203/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2596-check-knight-tour-configuration](https://github.com/MohithIT203/Leetcode/tree/master/2596-check-knight-tour-configuration) |
