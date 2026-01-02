@@ -82,6 +82,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/MohithIT203/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/MohithIT203/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MohithIT203/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/MohithIT203/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1002-find-common-characters](https://github.com/MohithIT203/Leetcode/tree/master/1002-find-common-characters) |
@@ -215,6 +216,7 @@
 | [0817-design-hashmap](https://github.com/MohithIT203/Leetcode/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MohithIT203/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MohithIT203/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/MohithIT203/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/MohithIT203/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/MohithIT203/Leetcode/tree/master/1002-find-common-characters) |
 | [1039-find-the-town-judge](https://github.com/MohithIT203/Leetcode/tree/master/1039-find-the-town-judge) |
