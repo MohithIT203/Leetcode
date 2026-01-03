@@ -1028,6 +1028,7 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/MohithIT203/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/MohithIT203/Leetcode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/MohithIT203/Leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/MohithIT203/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/MohithIT203/Leetcode/tree/master/1258-article-views-i) |
