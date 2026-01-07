@@ -121,6 +121,7 @@
 | [1929-concatenation-of-array](https://github.com/MohithIT203/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/MohithIT203/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MohithIT203/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -232,6 +233,7 @@
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MohithIT203/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MohithIT203/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/MohithIT203/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2094-finding-3-digit-even-numbers](https://github.com/MohithIT203/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2107-find-unique-binary-string](https://github.com/MohithIT203/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -578,6 +580,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MohithIT203/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MohithIT203/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/MohithIT203/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MohithIT203/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/MohithIT203/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -974,6 +977,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/MohithIT203/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MohithIT203/Leetcode/tree/master/0258-add-digits) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/MohithIT203/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2083-three-divisors](https://github.com/MohithIT203/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MohithIT203/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/MohithIT203/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -1013,6 +1017,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/MohithIT203/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/MohithIT203/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MohithIT203/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/MohithIT203/Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/MohithIT203/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/MohithIT203/Leetcode/tree/master/2404-most-frequent-even-element) |
