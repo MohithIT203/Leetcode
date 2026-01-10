@@ -136,6 +136,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/MohithIT203/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/MohithIT203/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MohithIT203/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohithIT203/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -895,6 +896,7 @@
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/MohithIT203/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MohithIT203/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/MohithIT203/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/MohithIT203/Leetcode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MohithIT203/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2329-maximum-product-after-k-increments](https://github.com/MohithIT203/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MohithIT203/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
