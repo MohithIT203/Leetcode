@@ -103,6 +103,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/MohithIT203/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1324-print-words-vertically](https://github.com/MohithIT203/Leetcode/tree/master/1324-print-words-vertically) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/MohithIT203/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohithIT203/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -315,6 +316,7 @@
 | [1205-defanging-an-ip-address](https://github.com/MohithIT203/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MohithIT203/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohithIT203/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1324-print-words-vertically](https://github.com/MohithIT203/Leetcode/tree/master/1324-print-words-vertically) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/MohithIT203/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MohithIT203/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -424,6 +426,7 @@
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1324-print-words-vertically](https://github.com/MohithIT203/Leetcode/tree/master/1324-print-words-vertically) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohithIT203/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohithIT203/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/MohithIT203/Leetcode/tree/master/1929-concatenation-of-array) |
