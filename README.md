@@ -151,6 +151,7 @@
 | [2329-maximum-product-after-k-increments](https://github.com/MohithIT203/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2404-most-frequent-even-element](https://github.com/MohithIT203/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MohithIT203/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohithIT203/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -250,6 +251,7 @@
 | [2406-decode-the-message](https://github.com/MohithIT203/Leetcode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/MohithIT203/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MohithIT203/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2502-sort-the-people](https://github.com/MohithIT203/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MohithIT203/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -596,6 +598,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/MohithIT203/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MohithIT203/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MohithIT203/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-strictly-palindromic-number](https://github.com/MohithIT203/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/MohithIT203/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/MohithIT203/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -1037,6 +1040,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/MohithIT203/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/MohithIT203/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MohithIT203/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3044-most-frequent-prime](https://github.com/MohithIT203/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MohithIT203/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
