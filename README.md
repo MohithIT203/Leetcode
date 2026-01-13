@@ -1060,6 +1060,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MohithIT203/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MohithIT203/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MohithIT203/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1757-recyclable-and-low-fat-products](https://github.com/MohithIT203/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/MohithIT203/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/MohithIT203/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bucket Sort
