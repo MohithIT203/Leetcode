@@ -117,6 +117,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/MohithIT203/Leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/MohithIT203/Leetcode/tree/master/1656-count-good-triplets) |
+| [1734-decode-xored-permutation](https://github.com/MohithIT203/Leetcode/tree/master/1734-decode-xored-permutation) |
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohithIT203/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MohithIT203/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1126,6 +1127,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1734-decode-xored-permutation](https://github.com/MohithIT203/Leetcode/tree/master/1734-decode-xored-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MohithIT203/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MohithIT203/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/MohithIT203/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
