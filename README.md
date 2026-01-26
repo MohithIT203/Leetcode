@@ -100,6 +100,7 @@
 | [1127-last-stone-weight](https://github.com/MohithIT203/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/MohithIT203/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/MohithIT203/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -489,6 +490,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MohithIT203/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/MohithIT203/Leetcode/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
