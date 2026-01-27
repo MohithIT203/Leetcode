@@ -103,6 +103,7 @@
 | [1168-duplicate-zeros](https://github.com/MohithIT203/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MohithIT203/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/MohithIT203/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -238,6 +239,7 @@
 | [1039-find-the-town-judge](https://github.com/MohithIT203/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/MohithIT203/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1217-relative-sort-array](https://github.com/MohithIT203/Leetcode/tree/master/1217-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MohithIT203/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MohithIT203/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/MohithIT203/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -593,6 +595,7 @@
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/MohithIT203/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MohithIT203/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1289-day-of-the-week](https://github.com/MohithIT203/Leetcode/tree/master/1289-day-of-the-week) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MohithIT203/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/MohithIT203/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -863,6 +866,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/MohithIT203/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohithIT203/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MohithIT203/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/MohithIT203/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohithIT203/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -990,6 +994,7 @@
 | [0724-find-pivot-index](https://github.com/MohithIT203/Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/MohithIT203/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohithIT203/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/MohithIT203/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/MohithIT203/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
