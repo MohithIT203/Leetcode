@@ -151,6 +151,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/MohithIT203/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohithIT203/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohithIT203/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/MohithIT203/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/MohithIT203/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
@@ -557,6 +558,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohithIT203/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/MohithIT203/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohithIT203/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MohithIT203/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -873,6 +875,7 @@
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MohithIT203/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/MohithIT203/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohithIT203/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohithIT203/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/MohithIT203/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -999,6 +1002,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/MohithIT203/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/MohithIT203/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohithIT203/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/MohithIT203/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
