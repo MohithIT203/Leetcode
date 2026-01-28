@@ -449,6 +449,7 @@
 | [0735-asteroid-collision](https://github.com/MohithIT203/Leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/MohithIT203/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1324-print-words-vertically](https://github.com/MohithIT203/Leetcode/tree/master/1324-print-words-vertically) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MohithIT203/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -594,6 +595,7 @@
 | [0507-perfect-number](https://github.com/MohithIT203/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/MohithIT203/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1006-clumsy-factorial](https://github.com/MohithIT203/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1031-add-to-array-form-of-integer](https://github.com/MohithIT203/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1195-distribute-candies-to-people](https://github.com/MohithIT203/Leetcode/tree/master/1195-distribute-candies-to-people) |
@@ -904,6 +906,7 @@
 | [0739-daily-temperatures](https://github.com/MohithIT203/Leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MohithIT203/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-clumsy-factorial](https://github.com/MohithIT203/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/MohithIT203/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MohithIT203/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
