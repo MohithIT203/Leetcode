@@ -14,10 +14,15 @@
  * }
  */
 class Solution {
-    public int maxDepth(TreeNode root) {
+    int helper(TreeNode root){
         if(root==null) return 0;
-        int lsum=maxDepth(root.left);
-        int rsum=maxDepth(root.right);
-        return Math.max(lsum,rsum)+1;
+
+        int left_height = helper(root.left);
+        int right_height = helper(root.right);
+
+        return 1+Math.max(left_height,right_height);
+    }
+    public int maxDepth(TreeNode root) {
+        return helper(root);
     }
 }
