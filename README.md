@@ -767,6 +767,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MohithIT203/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MohithIT203/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/MohithIT203/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/MohithIT203/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -805,6 +806,7 @@
 | [0279-perfect-squares](https://github.com/MohithIT203/Leetcode/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/MohithIT203/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MohithIT203/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/MohithIT203/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/MohithIT203/Leetcode/tree/master/0684-redundant-connection) |
@@ -1297,4 +1299,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohithIT203/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MohithIT203/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MohithIT203/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
