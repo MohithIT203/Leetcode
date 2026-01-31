@@ -95,6 +95,7 @@
 | [0994-rotting-oranges](https://github.com/MohithIT203/Leetcode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/MohithIT203/Leetcode/tree/master/1002-find-common-characters) |
 | [1020-longest-turbulent-subarray](https://github.com/MohithIT203/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1020-number-of-enclaves](https://github.com/MohithIT203/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1031-add-to-array-form-of-integer](https://github.com/MohithIT203/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/MohithIT203/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/MohithIT203/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -784,6 +785,7 @@
 | [0814-binary-tree-pruning](https://github.com/MohithIT203/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/MohithIT203/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/MohithIT203/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1020-number-of-enclaves](https://github.com/MohithIT203/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MohithIT203/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MohithIT203/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -822,6 +824,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MohithIT203/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/MohithIT203/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/MohithIT203/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/MohithIT203/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MohithIT203/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1020,6 +1023,7 @@
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/MohithIT203/Leetcode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/MohithIT203/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/MohithIT203/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohithIT203/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohithIT203/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1310,6 +1314,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MohithIT203/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/MohithIT203/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
