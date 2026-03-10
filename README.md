@@ -392,6 +392,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/MohithIT203/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2881-split-strings-by-separator](https://github.com/MohithIT203/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohithIT203/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/MohithIT203/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3396-valid-word](https://github.com/MohithIT203/Leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MohithIT203/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/MohithIT203/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -668,6 +669,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MohithIT203/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3044-most-frequent-prime](https://github.com/MohithIT203/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/MohithIT203/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/MohithIT203/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/MohithIT203/Leetcode/tree/master/3371-harshad-number) |
