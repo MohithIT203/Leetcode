@@ -362,6 +362,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohithIT203/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MohithIT203/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/MohithIT203/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/MohithIT203/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/MohithIT203/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/MohithIT203/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MohithIT203/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -640,6 +641,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/MohithIT203/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MohithIT203/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/MohithIT203/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/MohithIT203/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohithIT203/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MohithIT203/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MohithIT203/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
