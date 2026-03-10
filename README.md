@@ -193,6 +193,7 @@
 | [3226-minimum-number-game](https://github.com/MohithIT203/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohithIT203/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohithIT203/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/MohithIT203/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/MohithIT203/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MohithIT203/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/MohithIT203/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -942,6 +943,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/MohithIT203/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MohithIT203/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohithIT203/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/MohithIT203/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/MohithIT203/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
 |  |
