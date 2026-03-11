@@ -1222,6 +1222,7 @@
 | [0461-hamming-distance](https://github.com/MohithIT203/Leetcode/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/MohithIT203/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/MohithIT203/Leetcode/tree/master/0861-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/MohithIT203/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1734-decode-xored-permutation](https://github.com/MohithIT203/Leetcode/tree/master/1734-decode-xored-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MohithIT203/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
