@@ -1,19 +1,17 @@
 class Solution {
     public int findComplement(int n) {
-        if(n == 0) return 1;
-        String bin="";
-        int comp = 0;
-        while(n!=0){
-            bin=(n%2)+bin;
-            n/=2;
+        if (n == 0)
+            return 1;
+
+        int mask = 0;
+        int temp = n;
+
+        //create mask according to "n"
+        //egs:mask=1111 if n=1001
+        while (temp != 0) {
+            mask = (mask << 1) | 1;
+            temp >>= 1;
         }
-        int temp =0;
-        for(int i=bin.length()-1;i>=0;i--){
-            if(bin.charAt(i)=='0'){
-                comp+=(1<<temp);
-            }
-            temp++;
-        }
-        return comp;
+        return n ^ mask;
     }
 }
