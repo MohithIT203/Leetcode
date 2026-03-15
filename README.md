@@ -126,6 +126,7 @@
 | [1651-shuffle-string](https://github.com/MohithIT203/Leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/MohithIT203/Leetcode/tree/master/1656-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/MohithIT203/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1734-decode-xored-permutation](https://github.com/MohithIT203/Leetcode/tree/master/1734-decode-xored-permutation) |
 | [1755-defuse-the-bomb](https://github.com/MohithIT203/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MohithIT203/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -264,6 +265,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MohithIT203/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MohithIT203/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/MohithIT203/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MohithIT203/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/MohithIT203/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MohithIT203/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -440,6 +442,7 @@
 | [0917-boats-to-save-people](https://github.com/MohithIT203/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/MohithIT203/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/MohithIT203/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/MohithIT203/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/MohithIT203/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/MohithIT203/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2128-reverse-prefix-of-word](https://github.com/MohithIT203/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -525,6 +528,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/MohithIT203/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/MohithIT203/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/MohithIT203/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1970-sorting-the-sentence](https://github.com/MohithIT203/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MohithIT203/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MohithIT203/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
